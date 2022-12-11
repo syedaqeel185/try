@@ -1,0 +1,18 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: blue;
+}
+.subcontainer1{
+    width: 40%;
+    height: 40%;
+    background-color: aqua;
+}
+.subcontainer2{
+    width: 40%;
+    height: 40%;
+    background-color: red;
+    position: absolute;
+    left: 41%;
+    
+}
